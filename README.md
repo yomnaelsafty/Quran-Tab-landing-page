@@ -11,6 +11,7 @@ Focuses on accessibility, smooth animations, and responsive design.
 - ✅ Smooth animations when sections scroll into view  
 - ✅ Responsive design for mobile and desktop  
 - ✅ Clean and modular code structure  
+- ✅ Dynamic interactivity powered by JavaScript  
 
 ---
 
@@ -22,9 +23,17 @@ Focuses on accessibility, smooth animations, and responsive design.
 
 ---
 
+## 💻 JavaScript Usage
+
+- Handles keyboard accessibility for labels  
+- Observes sections to trigger animations when in view  
+- Provides smooth and responsive interactivity  
+
+---
+
 ## 🌐 Live Demo
 
-https://your-link-here
+https://yomnaelsafty.github.io/Quran-Tab-landing-page/
 
 ---
 
